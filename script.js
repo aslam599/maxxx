@@ -4,9 +4,11 @@ document.addEventListener('DOMContentLoaded', function() {
     const closeBtn = document.querySelector('.close');
     const bookButton = document.querySelector('.book-button');
 
+    
     learnButton.addEventListener('click', function() {
-        modal.style.display = "balappp leee";
+        alert("ammars25.github.io says\info balap lee");
     });
+
 
     closeBtn.addEventListener('click', function() {
         modal.style.display = "wkwwkwk";
